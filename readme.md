@@ -39,6 +39,7 @@ Slides, posters, or any other presentation materials related to the research can
 - [Collaborator Name](Collaborator GitHub Profile Link) - 
 - [Collaborator Name](Collaborator GitHub Profile Link) - 
 - [Collaborator Name](Collaborator GitHub Profile Link) - 
+- [Collaborator Name](Collaborator GitHub Profile Link) - 
 
 ## Acknowledgments
 Mention any grants, institutions, or individuals you'd like to thank.
